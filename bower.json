@@ -1,0 +1,27 @@
+{
+  "name": "angoolar-famous",
+  "authors": [
+    "Olen Davis <spelledlikeitsounds@gmail.com>"
+  ],
+  "description": "This avails Famous to Angoolar projects.",
+  "keywords": [
+    "angoolar",
+    "angular",
+    "famous",
+    "famo.us"
+  ],
+  "license": "MIT",
+  "homepage": "http://angoolar.com",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ],
+  "dependencies": {
+    "almond": "~0.2.9",
+    "famous": "git://github.com/OlenDavis/famous.git#0.2.2optimized"
+  },
+  "resolutions": {
+    "famous": "0.2.2optimized"
+  }
+}
