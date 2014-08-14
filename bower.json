@@ -22,6 +22,10 @@
     "famous": "git://github.com/OlenDavis/famous.git#0.2.2optimized"
   },
   "resolutions": {
-    "famous": "0.2.2optimized"
+    "famous": "0.2.2optimized",
+    "famous-angular": "856c85920f08845a70776eb89a57418322f2dd86"
+  },
+  "dependencies": {
+    "famous-angular": "856c85920f08845a70776eb89a57418322f2dd86"
   }
 }
