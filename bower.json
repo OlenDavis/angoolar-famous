@@ -17,7 +17,7 @@
     "node_modules",
     "bower_components"
   ],
-  "dependencies": {
+  "devDependencies": {
     "almond": "~0.2.9",
     "famous": "git://github.com/OlenDavis/famous.git#0.2.2optimized"
   },
